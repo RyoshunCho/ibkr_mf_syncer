@@ -12,7 +12,7 @@ IBKR MF Syncerは、[Interactive Brokers (IBKR)](https://www.interactivebrokers.
 - 当たり前ですが、IB証券で口座開設。
   - IB証券の口座設定で[Flex web serviceを有効](https://www.ibkrguides.com/brokerportal/flexwebservice.htm#:~:text=To%20enable%20flex%20web%20service,or%20disable%20Flex%20Web%20Service.)にしておくこと。
   - 有効にしたら、[Current Token](https://www.ibkrguides.com/clientportal/flex3.htm)をメモること。
-  - 1つ[Activity Flex queryを設定](https://www.ibkrguides.com/clientportal/performanceandstatements/activityflex.htm)しておくこと。セクション(Sections)は、以下の２つを選択しておくこと。
+  - 1つ[Activity Flex queryを作成](https://www.ibkrguides.com/clientportal/performanceandstatements/activityflex.htm)しておくこと。セクション(Sections)は、以下の２つを選択しておくこと。
     - (1)オープン・ポジション[(Open Position)](https://ibkrguides.com/reportingreference/reportguide/openpositions_default.htm)
        - オプションは「サマリー」のみ選択。
        - 項目は全ての項目を選択
