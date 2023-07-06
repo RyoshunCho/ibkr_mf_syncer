@@ -23,7 +23,7 @@ IBKR MF Syncerは、[Interactive Brokers (IBKR)](https://www.interactivebrokers.
     - クエリ名はなんでも良い。
     - クエリーIDをメモっておくこと。
 - 当たり前ですが、MoneyForward ME にログインできること。無料プランでも問題ない。
-  - MoneyForward MEで「IB証券」を[金融機関として手動登録](https://support.me.moneyforward.com/hc/ja/articles/900004425703-%E8%87%AA%E5%8B%95%E5%8F%96%E5%BE%97%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%82%92%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%9F%E3%81%84)しておくこと。
+  - MoneyForward MEで「IB証券」を[金融機関(証券)として手動登録](https://support.me.moneyforward.com/hc/ja/articles/900004425703-%E8%87%AA%E5%8B%95%E5%8F%96%E5%BE%97%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%82%92%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%9F%E3%81%84)しておくこと。
   - 登録したら、その金融機関のフルURLをメモっておくこと。
 
 ## 使い方
