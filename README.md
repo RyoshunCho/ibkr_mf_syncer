@@ -10,16 +10,16 @@ IBKR MF Syncerは、[Interactive Brokers (IBKR)](https://www.interactivebrokers.
 
 ## 準備
 - IB証券側の準備：
-  - IB証券の口座設定で[Flex web serviceを有効化](https://www.ibkrguides.com/brokerportal/flexwebservice.htm#:~:text=To%20enable%20flex%20web%20service,or%20disable%20Flex%20Web%20Service.)しておくこと。
+  - IB証券の口座設定で[Flex web service](https://ibkrcampus.com/glossary-terms/flex-web-service/)を[有効化](https://www.ibkrguides.com/brokerportal/flexwebservice.htm#:~:text=To%20enable%20flex%20web%20service,or%20disable%20Flex%20Web%20Service.)しておくこと。
   - 有効にしたら、[Current Token](https://www.ibkrguides.com/clientportal/flex3.htm)をメモること。
-  - 1つ[Activity Flex queryを作成](https://www.ibkrguides.com/clientportal/performanceandstatements/activityflex.htm)しておくこと。セクション(Sections)は、以下の２つを選択しておくこと。他のセクションを選択しないこと。
+  - 1つ[Activity Flex queryを作成](https://www.ibkrguides.com/clientportal/performanceandstatements/activityflex.htm)しておくこと。セクション(Sections)は、以下(1)と(2)の２つを選択しておくこと。他のセクションを選択しないこと。
     - (1)オープン・ポジション[(Open Position)](https://ibkrguides.com/reportingreference/reportguide/openpositions_default.htm)
        - オプションは「サマリー」のみ選択。
-       - 項目は全ての項目を選択
+       - 項目は全項目を選択(SELECT ALL)。
     - (2)キャッシュ・レポート[(Cash Report)](https://ibkrguides.com/reportingreference/reportguide/cashreport_default.htm)
        - オプションは何も選択しない。
-       - 項目は全ての項目を選択
-    - 他の設定は全てデフォルトのまま。
+       - 項目は全項目を選択(SELECT ALL)。
+    - 他の設定は全てデフォルトのままにすること。
     - クエリ名はなんでも良い。
     - 作成後、そのクエリーIDをメモっておくこと。
 - MoneyForward ME側の設定：
