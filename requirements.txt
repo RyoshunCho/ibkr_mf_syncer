@@ -1,0 +1,6 @@
+streamlit
+playwright
+ibflex
+BeautifulSoup
+yfinance
+pandas
